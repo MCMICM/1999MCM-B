@@ -28,9 +28,8 @@
 %   dt       = time step
 %   
 %   
-%
 % zhou lvwen: zhou.lv.wen@gmail.com
-%
+% October 24, 2013
 
 clear; clc
 global walls exits rects pples circs;
